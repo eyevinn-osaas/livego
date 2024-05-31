@@ -20,7 +20,7 @@
 #use_hls_https: true
 
 # # API Options
-# api_addr: ":8090"
+api_addr: ":8080"
 server:
 - appname: live
   live: true
